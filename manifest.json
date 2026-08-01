@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Characters appear one at a time, a tenth of a second apart. Nothing else moves.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
